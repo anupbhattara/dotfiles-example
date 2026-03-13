@@ -29,3 +29,5 @@ GIT_PS1_SHOWUNTRACKEDFILES=true
 #Add in alias
 alias ll='ls -l'
 alias la='ls -l -a'
+alias cls='clear'
+alias gs='git status'
